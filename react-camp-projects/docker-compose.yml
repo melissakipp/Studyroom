@@ -1,0 +1,10 @@
+version: "2.7"
+
+services:
+  nodejs:
+    build: .
+    user: node
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/opt/node_app/app

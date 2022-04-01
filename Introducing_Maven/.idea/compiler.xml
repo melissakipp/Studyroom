@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for learning-maven-presidents (1)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_04/01_04_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_04/01_04_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (1)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (6)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_03/03_03_end/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_03/03_03_end/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (6)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (3)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_06/01_06_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_06/01_06_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (3)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (4)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_07/01_07_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_07/01_07_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (4)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (9)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_05/03_05_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_05/03_05_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (9)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (2)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_05/01_05_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_05/01_05_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (2)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (5)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_08/01_08_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_08/01_08_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (5)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_04/01_04_end/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 1/01_04/01_04_end/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (10)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_05/03_05_end/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_05/03_05_end/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (10)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (8)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_04/03_04_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_04/03_04_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (8)" />
+      </profile>
+      <profile name="Annotation profile for learning-maven-presidents (7)" enabled="true">
+        <sourceOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_03/03_03_begin/learning-maven/learning-maven-presidents/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../../../../../wsl$/Ubuntu-20.04/home/melissa/Docs/Studyroom/Introducing_Maven/Chapter 3/03_03/03_03_begin/learning-maven/learning-maven-presidents/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-maven-presidents (7)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learning-maven" target="1.5" />
+      <module name="learning-maven (1)" target="1.5" />
+      <module name="learning-maven (10)" target="1.5" />
+      <module name="learning-maven (2)" target="1.5" />
+      <module name="learning-maven (3)" target="1.5" />
+      <module name="learning-maven (4)" target="1.5" />
+      <module name="learning-maven (5)" target="1.5" />
+      <module name="learning-maven (6)" target="1.5" />
+      <module name="learning-maven (7)" target="1.5" />
+      <module name="learning-maven (8)" target="1.5" />
+      <module name="learning-maven (9)" target="1.5" />
+      <module name="learning-maven-presidents" target="1.5" />
+      <module name="learning-maven-presidents (1)" target="1.5" />
+      <module name="learning-maven-presidents (10)" target="1.5" />
+      <module name="learning-maven-presidents (2)" target="1.5" />
+      <module name="learning-maven-presidents (3)" target="1.5" />
+      <module name="learning-maven-presidents (4)" target="1.5" />
+      <module name="learning-maven-presidents (5)" target="1.5" />
+      <module name="learning-maven-presidents (6)" target="1.5" />
+      <module name="learning-maven-presidents (7)" target="1.5" />
+      <module name="learning-maven-presidents (8)" target="1.5" />
+      <module name="learning-maven-presidents (9)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

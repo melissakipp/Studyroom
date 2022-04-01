@@ -1,0 +1,12 @@
+{
+  "name": "react-camp-projects",
+  "version": "0.1.0",
+  "author": "Melissa Kipp",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

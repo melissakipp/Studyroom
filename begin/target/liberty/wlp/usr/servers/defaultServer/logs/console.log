@@ -1,0 +1,25 @@
+Launching defaultServer (Open Liberty 19.0.0.4/wlp-1.0.27.cl190420190419-0642) on OpenJDK 64-Bit Server VM, version 11.0.13+8-Ubuntu-0ubuntu1.20.04 (en)
+[AUDIT   ] CWWKE0001I: The server defaultServer has been launched.
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications.
+[AUDIT   ] CWPKI0820A: The default keystore has been created using the 'keystore_password' environment variable.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/jwt/
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/openapi/ui/
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/metrics/
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/health/
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/ibm/api/
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/openapi/
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/demo/
+[AUDIT   ] CWWKZ0001I: Application demo started in 1.393 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [appSecurity-2.0, cdi-2.0, concurrent-1.0, distributedMap-1.0, jaxrs-2.1, jaxrsClient-2.1, jndi-1.0, json-1.0, jsonb-1.0, jsonp-1.1, jwt-1.0, microProfile-2.2, mpConfig-1.3, mpFaultTolerance-2.0, mpHealth-1.0, mpJwt-1.1, mpMetrics-1.1, mpOpenAPI-1.1, mpOpenTracing-1.3, mpRestClient-1.2, opentracing-1.3, servlet-4.0, ssl-1.0].
+[AUDIT   ] CWWKF0011I: The defaultServer server is ready to run a smarter planet. The defaultServer server started in 4.389 seconds.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Friday, March 4, 2022 at 9:57 AM. The server defaultServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/jwt/
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/demo/
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/openapi/ui/
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/metrics/
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/health/
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/ibm/api/
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/openapi/
+[AUDIT   ] CWWKZ0009I: The application demo has stopped successfully.
+[AUDIT   ] CWWKE0036I: The server defaultServer stopped after 5.989 seconds.

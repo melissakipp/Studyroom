@@ -1,0 +1,29 @@
+FROM node:16.13.1-alpine3.13 as node
+ENV LANG=C.UTF-8
+ENV NODE_VERSION 16.13.1
+ENV YARN_VERSION 1.22.15
+
+RUN node --version \
+    && npm --version \
+    && chown -R 1000:1000 "/root/.npm"
+
+RUN apk add --no-cache build-base bash git
+
+RUN npm init -y 
+
+EXPOSE 3000
+
+WORKDIR /app
+
+ENTRYPOINT ["npx"]
+
+CMD ["help"]
+
+
+# FROM node as npm-start
+
+# COPY docker-entrypoint.sh /usr/local/bin/
+
+# ENTRYPOINT [ "docker-entrypoint.sh" ]
+
+# CMD [ "npm", "start"]

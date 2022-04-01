@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Introducing_Maven.iml" filepath="$PROJECT_DIR$/.idea/Introducing_Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_04/01_04_end/learning-maven/learning-maven.iml" filepath="$PROJECT_DIR$/Chapter 1/01_04/01_04_end/learning-maven/learning-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_04/01_04_begin/learning-maven/learning-maven (1).iml" filepath="$PROJECT_DIR$/Chapter 1/01_04/01_04_begin/learning-maven/learning-maven (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_05/03_05_begin/learning-maven/learning-maven (10).iml" filepath="$PROJECT_DIR$/Chapter 3/03_05/03_05_begin/learning-maven/learning-maven (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_05/01_05_begin/learning-maven/learning-maven (2).iml" filepath="$PROJECT_DIR$/Chapter 1/01_05/01_05_begin/learning-maven/learning-maven (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_06/01_06_begin/learning-maven/learning-maven (3).iml" filepath="$PROJECT_DIR$/Chapter 1/01_06/01_06_begin/learning-maven/learning-maven (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_07/01_07_begin/learning-maven/learning-maven (4).iml" filepath="$PROJECT_DIR$/Chapter 1/01_07/01_07_begin/learning-maven/learning-maven (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_08/01_08_begin/learning-maven/learning-maven (5).iml" filepath="$PROJECT_DIR$/Chapter 1/01_08/01_08_begin/learning-maven/learning-maven (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_03/03_03_end/learning-maven/learning-maven (6).iml" filepath="$PROJECT_DIR$/Chapter 3/03_03/03_03_end/learning-maven/learning-maven (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_03/03_03_begin/learning-maven/learning-maven (7).iml" filepath="$PROJECT_DIR$/Chapter 3/03_03/03_03_begin/learning-maven/learning-maven (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_04/03_04_begin/learning-maven/learning-maven (8).iml" filepath="$PROJECT_DIR$/Chapter 3/03_04/03_04_begin/learning-maven/learning-maven (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_05/03_05_end/learning-maven (9).iml" filepath="$PROJECT_DIR$/Chapter 3/03_05/03_05_end/learning-maven (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_04/01_04_end/learning-maven/learning-maven-presidents/learning-maven-presidents.iml" filepath="$PROJECT_DIR$/Chapter 1/01_04/01_04_end/learning-maven/learning-maven-presidents/learning-maven-presidents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_04/01_04_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (1).iml" filepath="$PROJECT_DIR$/Chapter 1/01_04/01_04_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_05/03_05_end/learning-maven-presidents/learning-maven-presidents (10).iml" filepath="$PROJECT_DIR$/Chapter 3/03_05/03_05_end/learning-maven-presidents/learning-maven-presidents (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_05/01_05_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (2).iml" filepath="$PROJECT_DIR$/Chapter 1/01_05/01_05_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_06/01_06_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (3).iml" filepath="$PROJECT_DIR$/Chapter 1/01_06/01_06_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_07/01_07_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (4).iml" filepath="$PROJECT_DIR$/Chapter 1/01_07/01_07_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/01_08/01_08_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (5).iml" filepath="$PROJECT_DIR$/Chapter 1/01_08/01_08_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_03/03_03_end/learning-maven/learning-maven-presidents/learning-maven-presidents (6).iml" filepath="$PROJECT_DIR$/Chapter 3/03_03/03_03_end/learning-maven/learning-maven-presidents/learning-maven-presidents (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_03/03_03_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (7).iml" filepath="$PROJECT_DIR$/Chapter 3/03_03/03_03_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_04/03_04_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (8).iml" filepath="$PROJECT_DIR$/Chapter 3/03_04/03_04_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3/03_05/03_05_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (9).iml" filepath="$PROJECT_DIR$/Chapter 3/03_05/03_05_begin/learning-maven/learning-maven-presidents/learning-maven-presidents (9).iml" />
+    </modules>
+  </component>
+</project>
