@@ -10,7 +10,7 @@ public class StaticTest {
         numInstances++;
     }
 
-    public int getNumInstances() {
+    public static int getNumInstances() {
         return numInstances;
     }
 
