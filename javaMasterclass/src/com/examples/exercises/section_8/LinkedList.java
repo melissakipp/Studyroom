@@ -13,7 +13,7 @@ public class LinkedList<S> {
         Customer anotherCustomer;
         // Assigned first customer to second customer
         anotherCustomer = customer;
-        // Changed the second balance which will change the first customer.
+        // Changed the second accountBalance which will change the first customer.
         // Reference Type
         anotherCustomer.setBalance(12.18);
         System.out.println("Balance for customer " + customer.getName() + " is " + customer.getBalance());

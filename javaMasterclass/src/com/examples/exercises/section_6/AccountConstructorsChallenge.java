@@ -2,12 +2,12 @@ package com.examples.exercises.section_6;
 
 /*
 * Create a new class for a bank account
-* Create fields for the account number, balance, customer name, email and phone number.
+* Create fields for the account number, accountBalance, customer name, email and phone number.
 *
 * Create getters and setters for each field
 * Create two additional methods:
-* 1. To allow the customer to deposit funds (this should increment the balance field).
-* 2. To allow the customer to withdrawal funds. This should deduct from the balance field,
+* 1. To allow the customer to deposit funds (this should increment the accountBalance field).
+* 2. To allow the customer to withdrawal funds. This should deduct from the accountBalance field,
 * but not allow the withdrawal to complete if there is an insufficient funds.
 * Confirm your code is working.
 * Add some System.out.println's in the two methods above as well.
@@ -74,9 +74,9 @@ public class AccountConstructorsChallenge {
 
     // Note: it was completely necessary to put the 'this' on accountBalance, but being consistent is best practice.
     public void deposit(double depositAmount) {
-        // += will add to the balance, if you assigned it would replace the balance
+        // += will add to the accountBalance, if you assigned it would replace the accountBalance
         this.accountBalance += depositAmount;
-        System.out.println("Deposit of " + depositAmount + " made. New balance is " + this.accountBalance);
+        System.out.println("Deposit of " + depositAmount + " made. New accountBalance is " + this.accountBalance);
     }
 
     public void withdrawal(double withdrawalAmount) {
@@ -84,7 +84,7 @@ public class AccountConstructorsChallenge {
             System.out.println("Only " + this.accountBalance + " available. Withdrawal not processed.");
         } else {
             this.accountBalance -= withdrawalAmount;
-            System.out.println("Withdrawal of " + withdrawalAmount + " processed. Remaining balance = " + this.accountBalance);
+            System.out.println("Withdrawal of " + withdrawalAmount + " processed. Remaining accountBalance = " + this.accountBalance);
         }
 
 

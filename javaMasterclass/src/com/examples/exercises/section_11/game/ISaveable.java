@@ -1,4 +1,4 @@
-package com.example.game;
+package com.examples.exercises.section_11.game;
 
 import java.util.List;
 

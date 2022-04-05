@@ -1,4 +1,4 @@
-package com.example.game;
+package com.examples.exercises.section_11.game;
 
 import com.examples.exercises.section_9.simple_interface.ISaveable;
 
